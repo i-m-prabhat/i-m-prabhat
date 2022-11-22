@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @i-m-prabhat
 - 👀 I’m interested in learning something new daily.
 - 🌱 I’m currently learning MERN Stack.
-- 💞️ I’m looking to collaborate on great webpages.
-- 📫 You can check my profile for more details.
+- 💞️ I’m looking to collaborate on great Projects to build myself.
 
 <!---
 i-m-prabhat/i-m-prabhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
