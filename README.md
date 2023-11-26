@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prabhat Patel</h1>
-<h3 align="center">A passionate Developer from India</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Akaya+Telivigala&size=65&pause=1000&color=00D8FF&center=true&vCenter=true&width=900&height=100&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BD+%2C+I'm+Prabhat+Patel.;I'm+a+Full+Stack+Web+Developer.;Feel+Free+to+Get+in+Touch.+%F0%9F%98%8A;Nice+to+Meet+You..!!)]
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=i-m-prabhat&label=Profile%20views&color=0e75b6&style=flat" alt="i-m-prabhat" /> 
 
