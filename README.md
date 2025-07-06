@@ -1,7 +1,7 @@
 
 <!-- 👋 Dynamic Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Akaya+Telivigala&size=60&pause=1000&color=00D8FF&center=true&vCenter=true&width=900&height=100&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BD%2C+I'm+Prabhat+Patel.;Full+Stack+JavaScript+Developer.;Open+Source+Contributor+%F0%9F%92%AA;Let's+Build+Something+Great+Together+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Akaya+Telivigala&size=60&pause=1000&color=00D8FF&center=true&vCenter=true&width=900&height=100&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BD%2C+I'm+Prabhat+Patel.;Full+Stack+JavaScript+Developer.;Nice+to+Meet+You..!+%F0%9F%98%8A;+Let's+Build+Something+Great+Together" />
 </p>
 
 <!-- 📈 Profile Stats -->
